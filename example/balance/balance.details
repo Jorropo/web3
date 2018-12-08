@@ -1,0 +1,7 @@
+---
+  name: web3.js Balance
+  description: This is a demo compatible with metamask, mist and if not possible connecting to a localnode
+  resources:
+    - /dist/web3.min.js
+  load_type: h
+...
